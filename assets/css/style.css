@@ -2149,3 +2149,10 @@ textarea.input-field {
   display: flex;
   justify-content: space-between;
 }
+
+.menu-card .card-banner {
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  border-radius: var(--radius-24);
+}
